@@ -3,7 +3,7 @@
 
 Files included are used by Lucidhost.co to Update pterodactyl.
 
-**Has not been tested yet... So no Idea if it works.**
+Was originally made for the script to be ran and download files from this github, maybe one day I'll update it so you can download the repo and not need to download it a second time 🤦‍♂️
 
 
 ## Features
