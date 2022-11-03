@@ -13,13 +13,34 @@ Was originally made for the script to be ran and download files from this github
 - [Server Router Icons by harrydev](https://pterodactylmarket.com/resource/382)
 
 
+## Installation
+
+**Install lucid-update along side a already running pterodactyl instance.**
+
+****Warning* If you are running the script as root/superuser, you will get stopped to allow composer to run, just hit yes and continue.**
+
+
+Open up a new file in your favorite text editor
+```sh
+  nano update-panel.sh
+```
+Copy raw text and paste it into nano from [update-panel.sh](https://raw.githubusercontent.com/lPrestonl/lucidhost/main/update-panel.sh)
+
+```sh
+chmod +x update-panel.sh
+```
+Then run it
+
+```sh
+./update-panel
+```
 ## Roadmap
 
 - Add more up-to-date Addons
 
-- Test it? Eventually?
+- Make script pull from folder itself instead of redownloading the repo a second time.
 
-- Patch Known issues
+- No Other Known Issues
 
 
 
