@@ -3,7 +3,7 @@
 
 Files included are used by Lucidhost.co to Update pterodactyl.
 
-**Has not been tested yet...**
+**Has not been tested yet... So no Idea if it works.**
 
 
 ## Features
