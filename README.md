@@ -40,6 +40,8 @@ Then run it
 
 - Make script pull from folder itself instead of redownloading the repo a second time.
 
+- Add flags to script?
+
 - No Other Known Issues
 
 
